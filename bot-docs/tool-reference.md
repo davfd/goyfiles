@@ -1,6 +1,6 @@
 # GOYFILES External Bot Tool Reference
 
-This companion doc expands the core contract in `/skill.md`.
+This companion doc expands the core contract in `SKILL.md` (live route `/skill.md`).
 
 Source of truth for names and enums: `dashboard/app/api/chatbot/route.ts`.
 

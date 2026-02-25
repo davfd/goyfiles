@@ -1,6 +1,6 @@
 # GOYFILES Dataset and Source Reference
 
-This companion doc expands `/skill.md` with source identity rules.
+This companion doc expands `SKILL.md` (live route `/skill.md`) with source identity rules.
 
 Source of truth: `dashboard/lib/source-registry.ts`.
 
